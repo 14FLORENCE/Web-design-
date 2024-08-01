@@ -1,0 +1,28 @@
+{
+  // Editor settings
+  "editor.tabSize": 4,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.autoIndent": "full",
+  // File associations
+  "files.associations": {
+    "*.myext": "myLanguage"
+  },
+  // Formatting settings
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  // Extensions settings
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black",
+  // Git settings
+  "git.autofetch": true,
+  // Terminal settings
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.fontSize": 14,
+  // Theme settings
+  "workbench.colorTheme": "Material Theme Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  // Miscellaneous settings
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false
+}
